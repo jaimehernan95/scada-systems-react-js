@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "aprcontrol-srl",
+    "mainproject": "apr-control-srl-pe",
+    "main": "apr-control-srl-pe"
+  }
+}
