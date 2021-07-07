@@ -63,8 +63,7 @@ Once you download the archive, you will be able find a tutorial page inside it e
 1.  Download the project's zip
 2.  Make sure you have node.js (<https://nodejs.org/en/>) installed
 3.  Type `npm install` in terminal/console in the source folder where `package.json` is located
-4.  You will find all the branding colors inside `src/assets/scss/paper-kit/_variables.scss`. You can change them with a `HEX` value or with other predefined variables.
-5.  Run in terminal `npm start`.
+4.  Run in terminal `npm start`.
 
 ## Documentation
 The documentation for the Paper Kit React is hosted at our [website](https://demos.creative-tim.com/paper-kit-react/#/documentation/introduction?ref=pkr-github-readme).
@@ -76,6 +75,7 @@ Within the download you'll find the following directories and files:
 ```
 paper-kit-react
 .
+
 ├── CHANGELOG.md
 ├── ISSUE_TEMPLATE.md
 ├── LICENSE.md
@@ -193,13 +193,4 @@ We use GitHub Issues as the official bug tracker for the Paper Kit 2. Here are s
 - [More products](https://www.creative-tim.com/bootstrap-themes?ref=pkr-github-readme) from Creative Tim
 - Check our Bundles [here](https://www.creative-tim.com/bundles?ref=pkr-github-readme)
 
-### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
 # scada-systems-react-js
